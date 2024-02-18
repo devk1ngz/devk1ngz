@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Hoai Nam aka devk1ngz,you can call me justin for short.I'm a mobile engineer student at Hanoi University of Mining and Geology in Vietnam. Nice to see ya!
 
 <!--
 **devk1ngz/devk1ngz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
