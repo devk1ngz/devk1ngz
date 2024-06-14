@@ -3,7 +3,7 @@
 
 ### :man_technologist: About Me :
 I am a Mobile Engineer Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vietnam.
-- :telescope: I’m studying at Hanoi Unversity of Mining and Geology 
+- :telescope: I’m studying at Hanoi University of Mining and Geology 
 - :seedling: Exploring Mobile Technical.
 - :zap: In my free time, I solve problems on Leetcode and read tech articles.
 
